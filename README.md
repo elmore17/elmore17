@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there👋🏻, I`m Danya
 
-<!--
-**elmore17/elmore17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I`m a student at the Technical Institute 👨‍🎓
 
-Here are some ideas to get you started:
+- 👨‍💻I like to write code
+- 🧠I like to learn something new
+- 💪🏻I do sport
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="VK", width="22px" src="../icon/vk.svg" />][vk]
+[<img align="left" alt="VK", width="22px" src="../icon/telegram.png" />][tg]
+
+### Languages and Tools:
+
+<img align="left" alt="VK", width="22px" src="../icon/html.svg" />
+<img align="left" alt="VK", width="22px" src="../icon/css.svg" />
+<img align="left" alt="VK", width="22px" src="../icon/python.png" />
+<img align="left" alt="VK", width="22px" src="../icon/js.svg" />
+
+<br />
+<br />
+
+[vk]: https://vk.com/egorkin_dan1l
+[tg]: https://t.me/degorkin
