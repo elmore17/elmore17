@@ -8,18 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VK", width="22px" src="../vk.svg" />][vk]
-[<img align="left" alt="VK", width="22px" src="../telegram.png" />][tg]
+[vk]: https://vk.com/egorkin_dan1l
+[tg]: https://t.me/degorkin
+
 
 ### Languages and Tools:
 
-<img align="left" alt="VK", width="22px" src="../html.svg" />
-<img align="left" alt="VK", width="22px" src="../css.svg" />
-<img align="left" alt="VK", width="22px" src="../python.png" />
-<img align="left" alt="VK", width="22px" src="../js.svg" />
 
-<br />
-<br />
 
-[vk]: https://vk.com/egorkin_dan1l
-[tg]: https://t.me/degorkin
