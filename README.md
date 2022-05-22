@@ -8,15 +8,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VK", width="22px" src="../icon/vk.svg" />][vk]
-[<img align="left" alt="VK", width="22px" src="../icon/telegram.png" />][tg]
+[<img align="left" alt="VK", width="22px" src="../vk.svg" />][vk]
+[<img align="left" alt="VK", width="22px" src="../telegram.png" />][tg]
 
 ### Languages and Tools:
 
-<img align="left" alt="VK", width="22px" src="../icon/html.svg" />
-<img align="left" alt="VK", width="22px" src="../icon/css.svg" />
-<img align="left" alt="VK", width="22px" src="../icon/python.png" />
-<img align="left" alt="VK", width="22px" src="../icon/js.svg" />
+<img align="left" alt="VK", width="22px" src="../html.svg" />
+<img align="left" alt="VK", width="22px" src="../css.svg" />
+<img align="left" alt="VK", width="22px" src="../python.png" />
+<img align="left" alt="VK", width="22px" src="../js.svg" />
 
 <br />
 <br />
