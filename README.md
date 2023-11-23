@@ -4,7 +4,6 @@
 
 - 👨‍💻I like to write code
 - 🧠I like to learn something new
-- 💪🏻I do sport
 
 ### Connect with me:
 
