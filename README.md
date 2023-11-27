@@ -15,4 +15,4 @@
 Python,
 JavaScript,
 React,
-Vue,
+Vue
