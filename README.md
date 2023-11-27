@@ -12,7 +12,7 @@
 
 
 ### Languages and Tools:
-Python
-JavaScript
-React
-Vue
+Python,
+JavaScript,
+React,
+Vue,
