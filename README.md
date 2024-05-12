@@ -7,8 +7,7 @@
 
 ### Connect with me:
 
-[vk]: https://vk.com/egorkin_dan1l
-[tg]: https://t.me/degorkin
+<img src="{https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white}" />
 
 
 ### Languages and Tools:
