@@ -6,9 +6,9 @@
 - 🧠I like to learn something new
 
 ### Connect with me:
-
-<img src="{https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white}" />
-
+<a href='https://vk.com/egorkin_dan1l'>
+<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
+</a>
 
 ### Languages and Tools:
 <div align="center">
