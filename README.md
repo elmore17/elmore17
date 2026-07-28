@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmore17" alt="elmore17" /></a> </p>
 
-- 🔭 I’m currently working on [Builder pc](https://github.com/elmore17/BuilderPC)
-
-- 🌱 I’m currently learning **RTU MIREA, 4 course**
-
-- 👨‍💻 All of my projects are available at [https://github.com/elmore17?tab=repositories](https://github.com/elmore17?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
